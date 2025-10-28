@@ -1,0 +1,20 @@
+[00:00:22.445] Server  LOG      ✓ Ready in 21.8s
+[00:00:26.895] Server  LOG      ○ Compiling / ...
+[00:00:30.861] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:30.900] Browser WARN    Image with src "/_next/static/media/image.f537546a.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:35.578] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:35.732] Browser WARN    GSAP target .box3 not found. https://gsap.com
+[00:00:35.732] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:35.733] Browser WARN    GSAP target .box4 not found. https://gsap.com
+[00:00:35.733] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:35.733] Browser WARN    Image with src "/_next/static/media/project1.4f84de4e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:53.631] Browser WARN    GSAP target .box3 not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target .box4 not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target .box3 not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target .box4 not found. https://gsap.com
+[00:00:53.631] Browser WARN    GSAP target  not found. https://gsap.com

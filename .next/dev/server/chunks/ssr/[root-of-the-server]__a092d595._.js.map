@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/Portfolio%20Website/my-app/components/Navbar.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nfunction Navbar() {\r\n  return (\r\n    <div className='w-full h-[70px] bg-[#1F2233] text-[#C0CAF5] border-b border-[#2A2D3E]'>\r\n\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Navbar"],"names":[],"mappings":";;;;;;AAEA,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;;;;;;AAInB;uCAEe","debugId":null}},
+    {"offset": {"line": 38, "column": 0}, "map": {"version":3,"sources":["file:///D:/Portfolio%20Website/my-app/app/page.tsx"],"sourcesContent":["import Navbar from '@/components/Navbar'\nimport React from 'react'\n\nfunction page() {\n  return (\n    <div className='w-full h-screen  bg-[#1A1B26] text-[#C0CAF5]'>\n        <Navbar/>\n    </div>\n  )\n}\n\nexport default page"],"names":[],"mappings":";;;;;AAAA;;;AAGA,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC,gIAAM;;;;;;;;;;AAGf;uCAEe","debugId":null}}]
+}
